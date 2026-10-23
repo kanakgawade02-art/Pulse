@@ -1,3 +1,4 @@
+
 # Pulse
 
 **A browser-based music visualizer and audio-to-art studio.** Pulse turns local audio into reactive visuals, analyzes a track's sonic characteristics, and creates a downloadable poster—all without uploading the audio to a server.
@@ -69,3 +70,5 @@ If your repository already has a remote configured, `git push` sends the commit 
 ## Credits
 
 Pulse uses the Web Audio API and Canvas 2D. Music search is powered by the Audius API. Artist-inspired palettes are personal color impressions, not official brand colors.
+
+
